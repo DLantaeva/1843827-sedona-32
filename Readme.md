@@ -1,6 +1,6 @@
 # Личный проект «Седона»
 
-* Студент: [Лантаева Диана](https://up.htmlacademy.ru/htmlcss/32/user/1843827).
+* Студент: [Диана Лантаева](https://up.htmlacademy.ru/htmlcss/32/user/1843827).
 * Наставник: [Марианна Эльдарова](https://htmlacademy.ru/profile/id82294).
 
 ---
