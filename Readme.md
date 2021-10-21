@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/32/user/1843827).
-* Наставник: [`Марианна Эльдарова`](https://htmlacademy.ru/profile/id82294).
+* Наставник: [Марианна Эльдарова](https://htmlacademy.ru/profile/id82294).
 
 ---
 
